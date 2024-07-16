@@ -1,0 +1,5 @@
+/dist/*
+/build/*
+autoclicker.spec
+main.spec
+test.py
